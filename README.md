@@ -1,4 +1,4 @@
-#INA
+#INACompartido
 
 creando un nuevo repositorio
 probando readme
